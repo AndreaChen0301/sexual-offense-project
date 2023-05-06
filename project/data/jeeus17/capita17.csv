@@ -1,0 +1,67 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: jeeus17t07.csv,,,,,,,
+"Table 7. Per capita expenditures on all government and justice system functions, by jurisdiction, 2017",,,,,,,
+"Report title: Justice Expenditures and Employment in the United States, 2017 NCJ 256093",,,,,,,
+"Data source: U.S. Census Bureau, Census of Governments, 2017",,,,,,,
+"Author: Emily D. Buehler, Ph.D., BJS Statistician",,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,
+Date of version: 07/07/2021,,,,,,,
+,,,,,,,
+"Table 7. Per capita expenditures on all government and justice system functions, by jurisdiction, 2017",,,,,,,
+Jurisdiction,,2017 population,All government functions,Total justice system,Police protection,Judicial and legal functions,Corrections
+,U.S. total,"324,985,539","$11,259 ",$741 ,$351 ,$146 ,$244 
+,Median,:,"$10,504 ",$684 ,$312 ,$138 ,$214 
+Alabama,,"4,874,486","$9,989 ",$486 ,$261 ,$75 ,$150 
+Alaska,,"739,700","$20,181 ","$1,256 ",$494 ,$326 ,$436 
+Arizona,,"7,044,008","$8,310 ",$740 ,$355 ,$150 ,$235 
+Arkansas,,"3,001,345","$9,234 ",$469 ,$224 ,$75 ,$170 
+California,,"39,358,497","$14,327 ","$1,087 ",$487 ,$229 ,$371 
+Colorado,,"5,611,885","$10,839 ",$726 ,$330 ,$154 ,$242 
+Connecticut,,"3,573,297","$11,467 ",$693 ,$330 ,$190 ,$174 
+Delaware,,"956,823","$12,557 ",$949 ,$396 ,$210 ,$342 
+District of Columbia,,"694,906","$46,675 ","$1,351 ",$911 ,$213 ,$226 
+Florida,,"20,963,613","$8,446 ",$742 ,$406 ,$119 ,$217 
+Georgia,,"10,410,330","$8,178 ",$599 ,$262 ,$133 ,$204 
+Hawaii,,"1,424,393","$11,782 ",$725 ,$338 ,$227 ,$161 
+Idaho,,"1,717,715","$7,669 ",$628 ,$264 ,$122 ,$242 
+Illinois,,"12,778,828","$11,491 ",$696 ,$413 ,$118 ,$165 
+Indiana,,"6,658,078","$8,809 ",$451 ,$200 ,$92 ,$159 
+Iowa,,"3,141,550","$11,188 ",$512 ,$259 ,$114 ,$139 
+Kansas,,"2,908,718","$10,504 ",$595 ,$296 ,$112 ,$186 
+Kentucky,,"4,452,268","$10,198 ",$495 ,$171 ,$125 ,$198 
+Louisiana,,"4,670,560","$10,487 ",$711 ,$352 ,$147 ,$211 
+Maine,,"1,334,612","$9,611 ",$512 ,$233 ,$84 ,$195 
+Maryland,,"6,023,868","$11,561 ",$925 ,$443 ,$160 ,$321 
+Massachusetts,,"6,859,789","$13,528 ",$691 ,$326 ,$154 ,$212 
+Michigan,,"9,973,114","$9,906 ",$626 ,$255 ,$121 ,$249 
+Minnesota,,"5,566,230","$12,276 ",$684 ,$356 ,$138 ,$190 
+Mississippi,,"2,988,510","$10,050 ",$522 ,$257 ,$92 ,$173 
+Missouri,,"6,106,670","$9,085 ",$538 ,$292 ,$92 ,$155 
+Montana,,"1,052,482","$10,280 ",$750 ,$316 ,$189 ,$245 
+Nebraska,,"1,915,947","$12,055 ",$615 ,$260 ,$98 ,$257 
+Nevada,,"2,969,905","$8,787 ",$854 ,$427 ,$167 ,$260 
+New Hampshire,,"1,348,787","$9,379 ",$598 ,$312 ,$119 ,$168 
+New Jersey,,"8,885,525","$12,459 ",$810 ,$401 ,$169 ,$241 
+New Mexico,,"2,091,784","$11,769 ",$835 ,$338 ,$154 ,$343 
+New York,,"19,589,572","$17,758 ","$1,080 ",$530 ,$217 ,$333 
+North Carolina,,"10,268,233","$8,985 ",$583 ,$313 ,$81 ,$190 
+North Dakota,,"754,942","$14,361 ",$757 ,$307 ,$154 ,$297 
+Ohio,,"11,659,650","$11,113 ",$657 ,$327 ,$156 ,$174 
+Oklahoma,,"3,931,316","$8,806 ",$549 ,$266 ,$93 ,$190 
+Oregon,,"4,143,625","$12,909 ",$837 ,$331 ,$190 ,$316 
+Pennsylvania,,"12,787,641","$11,819 ",$738 ,$303 ,$143 ,$293 
+Rhode Island,,"1,055,673","$12,147 ",$780 ,$430 ,$151 ,$199 
+South Carolina,,"5,021,268","$10,041 ",$486 ,$261 ,$78 ,$146 
+South Dakota,,"872,868","$9,196 ",$564 ,$241 ,$109 ,$214 
+Tennessee,,"6,708,799","$8,849 ",$584 ,$295 ,$125 ,$163 
+Texas,,"28,295,273","$9,322 ",$628 ,$290 ,$113 ,$226 
+Utah,,"3,101,042","$9,785 ",$540 ,$240 ,$120 ,$180 
+Vermont,,"624,344","$12,861 ",$677 ,$310 ,$141 ,$226 
+Virginia,,"8,463,587","$9,931 ",$728 ,$298 ,$120 ,$310 
+Washington,,"7,423,362","$12,358 ",$674 ,$277 ,$164 ,$233 
+West Virginia,,"1,817,004","$10,158 ",$559 ,$217 ,$148 ,$195 
+Wisconsin,,"5,790,186","$10,764 ",$700 ,$322 ,$115 ,$263 
+Wyoming,,"578,931","$17,451 ",$945 ,$386 ,$213 ,$346 
+Note: Includes direct expenditures by state and local governments within each jurisdiction. Direct expenditures are per resident in that jurisdiction or per U.S. resident (for U.S. total).,,,,,,,
+:Not calculated.,,,,,,,
+"Source: U.S. Census Bureau, Census of Governments, 2017. ",,,,,,,

@@ -1,0 +1,33 @@
+Bureau of Justice Statistics,,,,,,
+Filename: jeeus17t01.csv,,,,,,
+"Table 1. Expenditures (in thousands of dollars) on justice system functions in federal, state, and local governments, 2017 ",,,,,,
+"Report title: Justice Expenditures and Employment in the United States, 2017 NCJ 256093",,,,,,
+"Data source: U.S. Census Bureau, Census of Governments, 2017; and Office of Management and Budget, Budget of the United States Government, 2017",,,,,,
+"Author: Emily D. Buehler, Ph.D., BJS Statistician",,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,
+Date of version: 07/07/2021,,,,,,
+,,,,,,
+"Table 1. Expenditures (in thousands of dollars) on justice system functions in federal, state, and local governments, 2017  ",,,,,,
+Type of expenditure,,,All governments/a,Federal/b,State,Local/c
+Total justice system,,,,,,
+,Total expenditure,,"$304,659,644 ","$57,944,000 ","$93,110,557 ","$153,605,087 "
+,,Direct expenditure,"$292,580,095 ","$51,900,000 ","$87,841,785 ","$152,838,310 "
+,,Intergovernmental expenditure,:,"$6,044,000 ","$5,268,772 ","$766,777 "
+Police protection,,,,,,
+,Total expenditure,,"$149,004,209 ","$33,290,447 ","$16,621,322 ","$99,092,440 "
+,,Direct expenditure,"$143,868,866 ","$29,818,000 ","$14,973,037 ","$99,077,829 "
+,,Intergovernmental expenditure,:,"$3,472,447 ","$1,648,285 ","$14,611 "
+Judicial and legal functions,,,,,,
+,Total expenditure,,"$66,429,520 ","$16,864,049 ","$25,012,645 ","$24,552,826 "
+,,Direct expenditure,"$62,580,570 ","$15,105,000 ","$23,597,577 ","$23,877,993 "
+,,Intergovernmental expenditure,:,"$1,759,049 ","$1,415,068 ","$674,833 "
+Corrections,,,,,,
+,Total expenditure,,"$89,225,916 ","$7,789,505 ","$51,476,590 ","$29,959,821 "
+,,Direct expenditure,"$86,130,659 ","$6,977,000 ","$49,271,171 ","$29,882,488 "
+,,Intergovernmental expenditure,:,"$812,505 ","$2,205,419 ","$77,333 "
+Note: Expenditures are in thousands of dollars. ,,,,,,
+:Not calculated to avoid double counting. See footnote a.,,,,,,
+a/Total expenditures exclude duplicative intergovernmental expenditures (payments to other governments that both the paying government and receiving governments report as spent) to avoid artificially inflating the values. See Terms and definitions.,,,,,,
+"b/Expenditures are for the fiscal period from October 1, 2016 to September 30, 2017.",,,,,,
+"c/Includes counties, municipalities, townships, and the District of Columbia. ",,,,,,
+"Source: U.S. Census Bureau, Census of Governments, 2017; and Office of Management and Budget, Budget of the United States Government, 2017.",,,,,,

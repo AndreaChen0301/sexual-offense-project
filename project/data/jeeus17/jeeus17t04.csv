@@ -1,0 +1,37 @@
+Bureau of Justice Statistics,,,,,,
+Filename: jeeus17t04.csv,,,,,,
+"Table 4. Full-time equivalent employees and March payrolls (in thousands of dollars) for justice system functions in federal, state, and local governments, 2017",,,,,,
+"Report title: Justice Expenditures and Employment in the United States, 2017 NCJ 256093",,,,,,
+"Data source: U.S. Census Bureau, Census of Governments, 2017; USAspending.gov, “spending by object class” dataset, 2017; and Office of Personnel Management, FedScope dataset, 2017",,,,,,
+"Author: Emily D. Buehler, Ph.D., BJS Statistician",,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,
+Date of version: 07/07/2021,,,,,,
+,,,,,,
+"Table 4. Full-time equivalent employees and March payrolls (in thousands of dollars) for justice system functions in federal, state, and local governments, 2017",,,,,,
+Type of employee,,,All governments,Federal,State,Local/a
+Total justice system,,,,,,
+,Total employees,,"2,446,891","302,499","732,409","1,411,983"
+,FTE employees,,:,:,"722,534","1,332,449"
+,March payrolls,,"$13,704,779 ","$2,407,596 ","$3,757,630 ","$7,539,553 "
+Police protection/b,,,,,,
+,Total,,,,,
+,,Total employees,"1,191,694","206,737","104,527","880,430"
+,,FTE employees,:,:,"102,775","826,016"
+,,March payrolls,"$7,138,316 ","$1,519,546 ","$651,184 ","$4,967,586 "
+,Sworn only,,,,,
+,,Total employees,:,:,"65,792","662,798"
+,,FTE employees,:,:,"65,326","642,753"
+,,March payrolls,:,:,"$479,326 ","$4,147,492 "
+Judicial and legal functions,,,,,,
+,Total employees,,"496,752","56,623","180,089","260,040"
+,FTE employees,,:,:,"175,701","241,589"
+,March payrolls,,"$2,984,894 ","$674,651 ","$1,023,196 ","$1,287,047 "
+Corrections,,,,,,
+,Total employees,,"758,445","39,139","447,793","271,513"
+,FTE employees,,:,:,"444,058","264,844"
+,March payrolls,,"$3,581,569 ","$213,399 ","$2,083,250 ","$1,284,920 "
+"Note: Full-time equivalent (FTE) is the number of full-time employees, plus the number of paid part-time hours divided by the standard hours for full-time employees in a government. Payrolls are in thousands of dollars. Payrolls include all salaries, wages, fees, commissions, bonuses, and awards paid to employees during the 1-month (31-day) pay period that includes March 12. See Terms and definitions.",,,,,,
+:Not calculated. Office of Personnel Management records lacked the information required to calculate FTE employees for the federal government.,,,,,,
+"a/Includes counties, municipalities, townships, and the District of Columbia.",,,,,,
+b/Police protection employees can be classified as either sworn (having arrest powers) or nonsworn (all others).,,,,,,
+"Source: U.S. Census Bureau, Census of Governments, 2017; USAspending.gov, “spending by object class” dataset, 2017; and Office of Personnel Management, FedScope dataset, 2017.",,,,,,

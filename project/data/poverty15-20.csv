@@ -1,0 +1,313 @@
+"","state","poverty_rate","year"
+"1","United States",14.7,2015
+"2","Alabama",18.5,2015
+"3","Alaska",10.4,2015
+"4","Arizona",17.4,2015
+"5","Arkansas",18.7,2015
+"6","California",15.4,2015
+"7","Colorado",11.5,2015
+"8","Connecticut",10.6,2015
+"9","Delaware",12.6,2015
+"10","District of Columbia",17.7,2015
+"11","Florida",15.8,2015
+"12","Georgia",17.2,2015
+"13","Hawaii",10.7,2015
+"14","Idaho",14.7,2015
+"15","Illinois",13.6,2015
+"16","Indiana",14.4,2015
+"17","Iowa",12.1,2015
+"18","Kansas",12.9,2015
+"19","Kentucky",18.3,2015
+"20","Louisiana",19.5,2015
+"21","Maine",13.2,2015
+"22","Maryland",9.9,2015
+"23","Massachusetts",11.5,2015
+"24","Michigan",15.7,2015
+"25","Minnesota",10.2,2015
+"26","Mississippi",22.1,2015
+"27","Missouri",14.8,2015
+"28","Montana",14.4,2015
+"29","Nebraska",12.2,2015
+"30","Nevada",14.9,2015
+"31","New Hampshire",8.4,2015
+"32","New Jersey",10.8,2015
+"33","New Mexico",19.8,2015
+"34","New York",15.5,2015
+"35","North Carolina",16.4,2015
+"36","North Dakota",10.7,2015
+"37","Ohio",14.8,2015
+"38","Oklahoma",16,2015
+"39","Oregon",15.2,2015
+"40","Pennsylvania",13.1,2015
+"41","Rhode Island",14.1,2015
+"42","South Carolina",16.8,2015
+"43","South Dakota",13.5,2015
+"44","Tennessee",16.7,2015
+"45","Texas",15.9,2015
+"46","Utah",11.2,2015
+"47","Vermont",10.4,2015
+"48","Virginia",11.2,2015
+"49","Washington",12.2,2015
+"50","West Virginia",18,2015
+"51","Wisconsin",12.1,2015
+"52","Wyoming",10.6,2015
+"53","United States",14,2016
+"54","Alabama",17.2,2016
+"55","Alaska",9.9,2016
+"56","Arizona",16.4,2016
+"57","Arkansas",17.2,2016
+"58","California",14.4,2016
+"59","Colorado",11,2016
+"60","Connecticut",9.9,2016
+"61","Delaware",11.8,2016
+"62","District of Columbia",18.5,2016
+"63","Florida",14.8,2016
+"64","Georgia",16.1,2016
+"65","Hawaii",9.5,2016
+"66","Idaho",13.8,2016
+"67","Illinois",13,2016
+"68","Indiana",14,2016
+"69","Iowa",11.7,2016
+"70","Kansas",12.2,2016
+"71","Kentucky",18.2,2016
+"72","Louisiana",20.1,2016
+"73","Maine",12.3,2016
+"74","Maryland",9.7,2016
+"75","Massachusetts",10.5,2016
+"76","Michigan",14.9,2016
+"77","Minnesota",9.9,2016
+"78","Mississippi",21,2016
+"79","Missouri",14,2016
+"80","Montana",13.4,2016
+"81","Nebraska",11.3,2016
+"82","Nevada",14.1,2016
+"83","New Hampshire",7.6,2016
+"84","New Jersey",10.4,2016
+"85","New Mexico",19.1,2016
+"86","New York",14.8,2016
+"87","North Carolina",15.4,2016
+"88","North Dakota",10.5,2016
+"89","Ohio",14.5,2016
+"90","Oklahoma",16.1,2016
+"91","Oregon",13.4,2016
+"92","Pennsylvania",12.9,2016
+"93","Rhode Island",13.3,2016
+"94","South Carolina",15.3,2016
+"95","South Dakota",12.9,2016
+"96","Tennessee",15.8,2016
+"97","Texas",15.6,2016
+"98","Utah",10.2,2016
+"99","Vermont",11.3,2016
+"100","Virginia",11,2016
+"101","Washington",11.3,2016
+"102","West Virginia",17.9,2016
+"103","Wisconsin",11.8,2016
+"104","Wyoming",10.9,2016
+"105","United States",13.4,2017
+"106","Alabama",16.9,2017
+"107","Alaska",11,2017
+"108","Arizona",14.9,2017
+"109","Arkansas",16.3,2017
+"110","California",13.3,2017
+"111","Colorado",10.3,2017
+"112","Connecticut",9.7,2017
+"113","Delaware",13,2017
+"114","District of Columbia",16.6,2017
+"115","Florida",14.1,2017
+"116","Georgia",15.1,2017
+"117","Hawaii",9.5,2017
+"118","Idaho",12.6,2017
+"119","Illinois",12.5,2017
+"120","Indiana",13.3,2017
+"121","Iowa",10.8,2017
+"122","Kansas",11.9,2017
+"123","Kentucky",17.1,2017
+"124","Louisiana",19.6,2017
+"125","Maine",11.3,2017
+"126","Maryland",9.4,2017
+"127","Massachusetts",10.5,2017
+"128","Michigan",14.1,2017
+"129","Minnesota",9.5,2017
+"130","Mississippi",19.9,2017
+"131","Missouri",13.4,2017
+"132","Montana",12.7,2017
+"133","Nebraska",10.7,2017
+"134","Nevada",13.3,2017
+"135","New Hampshire",7.7,2017
+"136","New Jersey",10,2017
+"137","New Mexico",19,2017
+"138","New York",14.1,2017
+"139","North Carolina",14.7,2017
+"140","North Dakota",10.2,2017
+"141","Ohio",13.9,2017
+"142","Oklahoma",15.8,2017
+"143","Oregon",13.2,2017
+"144","Pennsylvania",12.5,2017
+"145","Rhode Island",12.3,2017
+"146","South Carolina",15.4,2017
+"147","South Dakota",12.8,2017
+"148","Tennessee",15,2017
+"149","Texas",14.7,2017
+"150","Utah",9.7,2017
+"151","Vermont",10.8,2017
+"152","Virginia",10.7,2017
+"153","Washington",11,2017
+"154","West Virginia",18.5,2017
+"155","Wisconsin",11.3,2017
+"156","Wyoming",10.8,2017
+"157","United States",13.1,2018
+"158","Alabama",16.8,2018
+"159","Alaska",11.1,2018
+"160","Arizona",14.1,2018
+"161","Arkansas",16.8,2018
+"162","California",12.8,2018
+"163","Colorado",9.7,2018
+"164","Connecticut",10.3,2018
+"165","Delaware",12.2,2018
+"166","District of Columbia",16.1,2018
+"167","Florida",13.7,2018
+"168","Georgia",14.5,2018
+"169","Hawaii",9,2018
+"170","Idaho",11.7,2018
+"171","Illinois",12.1,2018
+"172","Indiana",13,2018
+"173","Iowa",11.2,2018
+"174","Kansas",11.9,2018
+"175","Kentucky",16.7,2018
+"176","Louisiana",18.7,2018
+"177","Maine",11.6,2018
+"178","Maryland",9.1,2018
+"179","Massachusetts",10,2018
+"180","Michigan",14,2018
+"181","Minnesota",9.6,2018
+"182","Mississippi",19.8,2018
+"183","Missouri",13.2,2018
+"184","Montana",12.9,2018
+"185","Nebraska",11,2018
+"186","Nevada",13.1,2018
+"187","New Hampshire",7.6,2018
+"188","New Jersey",9.5,2018
+"189","New Mexico",18.8,2018
+"190","New York",13.7,2018
+"191","North Carolina",14.1,2018
+"192","North Dakota",10.6,2018
+"193","Ohio",13.8,2018
+"194","Oklahoma",15.5,2018
+"195","Oregon",12.5,2018
+"196","Pennsylvania",12.2,2018
+"197","Rhode Island",12.8,2018
+"198","South Carolina",15.2,2018
+"199","South Dakota",12.9,2018
+"200","Tennessee",15.2,2018
+"201","Texas",14.9,2018
+"202","Utah",9.1,2018
+"203","Vermont",10.7,2018
+"204","Virginia",10.7,2018
+"205","Washington",10.3,2018
+"206","West Virginia",17.4,2018
+"207","Wisconsin",11.1,2018
+"208","Wyoming",10.7,2018
+"209","United States",12.3,2019
+"210","Alabama",15.6,2019
+"211","Alaska",10.2,2019
+"212","Arizona",13.5,2019
+"213","Arkansas",16,2019
+"214","California",11.8,2019
+"215","Colorado",9.4,2019
+"216","Connecticut",9.9,2019
+"217","Delaware",11.2,2019
+"218","District of Columbia",14.1,2019
+"219","Florida",12.7,2019
+"220","Georgia",13.5,2019
+"221","Hawaii",9,2019
+"222","Idaho",11,2019
+"223","Illinois",11.4,2019
+"224","Indiana",11.9,2019
+"225","Iowa",11,2019
+"226","Kansas",11.3,2019
+"227","Kentucky",16,2019
+"228","Louisiana",18.8,2019
+"229","Maine",10.9,2019
+"230","Maryland",9.1,2019
+"231","Massachusetts",9.5,2019
+"232","Michigan",12.9,2019
+"233","Minnesota",8.9,2019
+"234","Mississippi",19.5,2019
+"235","Missouri",12.9,2019
+"236","Montana",12.6,2019
+"237","Nebraska",9.9,2019
+"238","Nevada",12.7,2019
+"239","New Hampshire",7.5,2019
+"240","New Jersey",9.1,2019
+"241","New Mexico",17.5,2019
+"242","New York",13.1,2019
+"243","North Carolina",13.6,2019
+"244","North Dakota",10.5,2019
+"245","Ohio",13,2019
+"246","Oklahoma",15.1,2019
+"247","Oregon",11.5,2019
+"248","Pennsylvania",12,2019
+"249","Rhode Island",11.6,2019
+"250","South Carolina",13.9,2019
+"251","South Dakota",11.9,2019
+"252","Tennessee",13.8,2019
+"253","Texas",13.6,2019
+"254","Utah",8.8,2019
+"255","Vermont",10.1,2019
+"256","Virginia",9.9,2019
+"257","Washington",9.8,2019
+"258","West Virginia",16.2,2019
+"259","Wisconsin",10.4,2019
+"260","Wyoming",9.9,2019
+"261","United States",11.9,2020
+"262","Alabama",14.9,2020
+"263","Alaska",9.6,2020
+"264","Arizona",12.8,2020
+"265","Arkansas",15.2,2020
+"266","California",11.5,2020
+"267","Colorado",9,2020
+"268","Connecticut",9.7,2020
+"269","Delaware",10.9,2020
+"270","District of Columbia",15,2020
+"271","Florida",12.4,2020
+"272","Georgia",14,2020
+"273","Hawaii",8.9,2020
+"274","Idaho",10.1,2020
+"275","Illinois",11,2020
+"276","Indiana",11.6,2020
+"277","Iowa",10.2,2020
+"278","Kansas",10.6,2020
+"279","Kentucky",14.9,2020
+"280","Louisiana",17.8,2020
+"281","Maine",10.6,2020
+"282","Maryland",9,2020
+"283","Massachusetts",9.4,2020
+"284","Michigan",12.6,2020
+"285","Minnesota",8.3,2020
+"286","Mississippi",18.7,2020
+"287","Missouri",12.1,2020
+"288","Montana",12.4,2020
+"289","Nebraska",9.2,2020
+"290","Nevada",12.5,2020
+"291","New Hampshire",7,2020
+"292","New Jersey",9.4,2020
+"293","New Mexico",16.8,2020
+"294","New York",12.7,2020
+"295","North Carolina",12.9,2020
+"296","North Dakota",10.2,2020
+"297","Ohio",12.6,2020
+"298","Oklahoma",14.3,2020
+"299","Oregon",11,2020
+"300","Pennsylvania",10.9,2020
+"301","Rhode Island",10.6,2020
+"302","South Carolina",13.8,2020
+"303","South Dakota",11.6,2020
+"304","Tennessee",13.6,2020
+"305","Texas",13.4,2020
+"306","Utah",7.3,2020
+"307","Vermont",9.4,2020
+"308","Virginia",9.2,2020
+"309","Washington",9.5,2020
+"310","West Virginia",15.8,2020
+"311","Wisconsin",10,2020
+"312","Wyoming",9.2,2020

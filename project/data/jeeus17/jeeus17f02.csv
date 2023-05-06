@@ -1,0 +1,19 @@
+Bureau of Justice Statistics,,,,,
+Filename: jeeus17f02.csv,,,,,
+"Figure 2. Full-time equivalent employees in justice system functions in state and local governments, 1997-2017",,,,,
+"Report title: Justice Expenditures and Employment in the United States, 2017 NCJ 256093",,,,,
+"Data source: U.S. Census Bureau, Census of Governments, 1997-2017",,,,,
+"Author: Emily D. Buehler, Ph.D., BJS Statistician",,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,
+Date of version: 07/07/2021,,,,,
+,,,,,
+"Figure 2. Full-time equivalent employees in justice system functions in state and local governments, 1997-2017",,,,,
+,FTE employees,,,,
+Year,Total justice system,Total police protection,Sworn only police protection,Judicial and legal,Corrections
+1997,"1,790,780","798,805","602,718","343,531","648,448"
+2002,"1,994,120","887,087","661,137","404,741","702,292"
+2007,"2,085,560","932,995","691,838","423,428","729,136"
+2012,"2,024,120","912,308","688,507","407,927","703,882"
+2017,"2,054,980","928,791","708,079","417,290","708,902"
+"Note: Full-time equivalent (FTE) is the number of full-time employees, plus the number of paid part-time hours divided by the standard hours for full-time employees in a government. Police protection employees can be classified as either sworn (having arrest powers) or nonsworn (all others). See appendix table 2 for estimates.",,,,,
+"Source: U.S. Census Bureau, Census of Governments, 1997-2017. ",,,,,

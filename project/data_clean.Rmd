@@ -1,0 +1,161 @@
+---
+title: "data clean"
+output: html_document
+date: "2023-02-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message=F)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+library(openxlsx)
+library(tidyverse)
+income = read.xlsx("https://www2.census.gov/programs-surveys/demo/tables/p60/273/tableA3.xlsx",sheet=1)
+```
+
+
+```{r pressure, echo=FALSE, warning=FALSE}
+assault = read_csv("./data/2021_sexual_assault.csv", show_col_types = FALSE) %>%
+  select(state, reported_rape_cases, rape_arrests, sex_offense_arrests)
+
+teacher_salary = read_csv("./data/public-school-teacher-salaries.csv", show_col_types = FALSE) %>%
+  select(state, avg_salary)
+
+school_score = read_csv("./data/public_school_scores.csv", show_col_types = FALSE) %>%
+  select(state, score)
+
+police_spending = read_csv("./data/police_spending.csv", show_col_types = FALSE)
+
+df = assault %>%
+  inner_join(teacher_salary, by="state") %>%
+  inner_join(school_score, by="state") %>%
+  inner_join(police_spending, by="state") %>%
+  arrange(state)
+
+write.csv(df, file = "2021_states")
+```
+
+```{r}
+df1 = read.csv("./data/sex_assult_texas.csv") %>%
+  rename(county = X.state) %>%
+  mutate(county = str_to_title(county), case = as.numeric(case)) %>%
+  group_by(county) %>%
+  summarize(sexual_assul = sum(case))
+
+write.csv(df1, file = "texax_sex2021")
+```
+
+```{r}
+clean <- function(datapath) {
+  read.xlsx(datapath,sheet=1) %>%
+    drop_na() %>%
+    rename("name" = X2) %>%
+    select(-starts_with("X"))%>%
+    select_all(~gsub("[.]", " ", .)) %>% 
+    mutate_if(is.character, str_trim) %>%
+    filter(name == "Police protection" | name == "Correction") %>%
+    pivot_longer(col = !name, names_to = "state") %>%
+    pivot_wider(names_from=name, values_from = value)%>%
+    select_all(~gsub("\\s+|\\.", "_", .)) %>% 
+    mutate(Police_protection = as.numeric(Police_protection), Correction = as.numeric(Correction))
+}
+spend18_1 = clean("./data/policing18.xlsx") %>%
+  filter(state != "United States Total")
+```
+
+```{r}
+spend18 = clean("./data/spending18-2.xlsx") %>%
+  rbind(spend18_1) %>%
+  arrange(state)
+
+spend18$year = 2018
+```
+
+### 2018 Police Spending data
+
+```{r}
+pop2018 = read.xlsx("./data/popest-annual.xlsm", sheet=1) %>%
+  select(Area, y2018) %>%
+  mutate(state = Area, pop = y2018) %>%
+  select(-Area, -y2018)
+
+capita18 = right_join(spend18, pop2018, by = "state") %>%
+  group_by(state) %>%
+  mutate(police_correction_per_capita = (Police_protection+Correction)/pop*1000)
+```
+
+### 2019 Police Spending data
+
+```{r}
+spend19 = clean("./data/spending19-1.xlsx") %>%
+  rbind(clean("./data/spending19-2.xlsx")) %>%
+  filter(state != "United States Total")
+
+pop2019 = read.xlsx("./data/popest-annual.xlsm", sheet=1) %>%
+  select(Area, y2019) %>%
+  mutate(state = Area, pop = y2019) %>%
+  select(-Area, -y2019)
+
+capita19 = right_join(spend19, pop2019, by = "state") %>%
+  group_by(state) %>%
+  mutate(police_correction_per_capita = (Police_protection+Correction)/pop*1000)
+
+capita19$year = 2019
+```
+
+```{r}
+spend20 = clean("./data/spending20-1.xlsx") %>%
+  rbind(clean("./data/spending20-2.xlsx")) %>%
+  filter(state != "United States Total")
+
+pop2020 = read.xlsx("./data/popest-annual.xlsm", sheet=1) %>%
+  select(Area, y2020) %>%
+  mutate(state = Area, pop = y2020) %>%
+  select(-Area, -y2020)
+
+capita20 = right_join(spend20, pop2020, by = "state") %>%
+  group_by(state) %>%
+  mutate(police_correction_per_capita = (Police_protection+Correction)/pop*1000)
+
+capita20$year = 2020
+```
+
+```{r}
+write.csv(capita19, file = "police_correction_19.csv")
+write.csv(capita18, file = "police_correction_18.csv")
+write.csv(capita20, file = "police_correction_20.csv")
+```
+
+```{r}
+poverty.full = read_csv("./data/poverty-full.csv")
+colnames(poverty.full) <- gsub(" ", ".", colnames(poverty.full))
+poverty = poverty.full %>%
+  select(Name, Percent.in.Poverty, Year) %>%
+  filter(Year>=2015 & Year < 2021) %>%
+  rename("state" = "Name", "poverty_rate" = "Percent.in.Poverty", "year" = "Year")
+
+write.csv(poverty, file = "poverty15-20.csv")
+```
+
+```{r}
+df1 = read.xlsx("./data/edu21.xlsx") %>%
+  head(8) %>%
+  filter(X1 == "Bachelor's degree or higher") %>%
+  select(-c(X1, Alabama))
+
+states <- c("Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "District of Columbia", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming")
+
+df2 = pivot_longer(edu[, seq(1, ncol(edu), by = 6)], everything(), names_to = "state", values_to = "bachelor_rate") %>%
+  mutate(bachelor_rate = as.numeric(str_remove(bachelor_rate, "%"))) %>%
+  head(51)
+df2$state = states
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

@@ -1,0 +1,31 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: jeee13t01.csv,,,,,,,
+"Table 1. Percent distribution of expenditure for the justice system by type of government, fiscal 2013",,,,,,,
+"Report title: Justice Expenditure and Employment Extracts 2013 Final, NCJ 250327",,,,,,,
+Data source: Justice Expenditure and Employment Extracts Program (JEEE),,,,,,,
+"Author: Jennifer Bronson, Ph.D., BJS Statistician",,,,,,,
+Refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765,,,,,,,
+Date of version: 6/29/2018,,,,,,,
+,,,,,,,
+"Table 1. Percent distribution of expenditure for the justice system by type of government, fiscal 2013",,,,,,,
+(Payroll amounts in thousands of dollars),,,,,,,
+,,,,,,,
+,Amount (thousands of dollars),,,,Percent distribution,,
+,All governments/a,Federal government,State governments,Local governments,Federal government,State governments,Local governments
+Total justice system,272950000,52601000,85752497,134590000,-,-,-
+Direct expenditure,263370000,48820000,80126962,134420000,18.5,30.4,51
+Intergovernmental expenditure,-,3781000,5625535,172174,-,-,-
+,,,,,,,
+Police protection,129990000,29408937,15106964,85472994,-,-,-
+Direct expenditure,126280000,27295000,13521647,85460635,21.6,10.7,67.7
+Intergovernmental expenditure,-,2113937,1585317,12359,-,-,-
+,,,,,,,
+Judicial and legal,60029063,15907439,22038038,22083586,-,-,-
+Direct expenditure,57320541,14764000,20512725,22043816,25.8,35.8,38.5
+Intergovernmental expenditure,-,1143439,1525313,39770,-,-,-
+,,,,,,,
+Corrections,82929004,7284624,48607495,27036885,-,-,-
+Direct expenditure,79770430,6761000,46092590,26916840,8.5,57.8,33.7
+Intergovernmental expenditure,-,523624,2514905,120045,-,-,-
+"Note: Local government data are estimates subject to sampling variability.  Federal government data are for the fiscal period beginning October 1, 2012 and ending September 30, 2013.",,,,,,,
+"a/The total lines for each criminal justice activity, and for the total justice system, exclude duplicative intergovernmental amounts.  This was done to avoid the artificial inflation that would result if an intergovernmental expenditure of a government were tabulated and then counted again when the recipient government(s) expended the amount.  The intergovernmental expenditure lines are not totaled for the same reason.",,,,,,,

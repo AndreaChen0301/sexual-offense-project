@@ -1,0 +1,27 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: jeee16t01.csv,,,,,,,
+"Table 1. Percent distribution of expenditure for the justice system, by type of government, fiscal 2016",,,,,,,
+"Series title: Justice Expenditure and Employment Extracts, 2016 - Final NCJ 300061",,,,,,,
+Data source: Justice Expenditure and Employment Extracts Program (JEEE),,,,,,,
+"Author: Emily D. Buehler, Ph.D., BJS Statistician",,,,,,,
+Refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765,,,,,,,
+Date of version: 07/07/2021,,,,,,,
+,,,,,,,
+"Table 1. Percent distribution of expenditure for the justice system, by type of government, fiscal 2016",,,,,,,
+(Amount in thousands of dollars),,,,,,,
+,,,,,,,
+Function - Measure ,All governments/a,Federal government,State governments,Local governments,Percent federal government,Percent state governments,Percent local governments 
+Total justice system - Total expenditure,"294,432,332","55,768,000","91,245,088","147,419,244",-,-,-
+Total justice system - Direct expenditure,"283,615,681","50,730,000","86,201,819","146,683,862",17.9,30.4,51.7
+Total justice system - Intergovernmental expenditure,-,"5,038,000","5,043,269","735,382",-,-,-
+Police protection - Total expenditure,"141,677,418","31,754,671","15,798,190","94,124,557",-,-,-
+Police protection - Direct expenditure,"137,385,902","28,886,000","14,384,724","94,115,178",21,10.5,68.5
+Police protection - Intergovernmental expenditure,-,"2,868,671","1,413,466","9,379",-,-,-
+Judicial and legal - Total expenditure,"64,615,674","16,370,926","23,966,239","24,278,509",-,-,-
+Judicial and legal - Direct expenditure,"61,078,244","14,892,000","22,602,228","23,584,016",24.4,37,38.6
+Judicial and legal - Intergovernmental expenditure,-,"1,478,926","1,364,011","694,493",-,-,-
+Corrections - Total expenditure,"88,139,241","7,642,404","51,480,659","29,016,178",-,-,-
+Corrections - Direct expenditure,"85,151,535","6,952,000","49,214,867","28,984,668",8.2,57.8,34
+Corrections - Intergovernmental expenditure,-,"690,404","2,265,792","31,510",-,-,-
+"Note: Local government data are estimates subject to sampling variability. Federal government data are for the fiscal period beginning October 1, 2015, and ending September 30, 2016.",,,,,,,
+"a/The total lines for each criminal justice activity, and for the total justice system, exclude duplicative intergovernmental amounts. This was done to avoid the artificial inflation that would result if an intergovernmental expenditure of a government were tabulated and then counted again when the recipient government(s) expended the amount. The intergovernmental expenditure lines are not totaled for the same reason.",,,,,,,
