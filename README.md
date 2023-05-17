@@ -4,7 +4,5 @@
 ### Not everyone can name a person around them who are victim or offender of sexual offense, but it's easy to find a real-life example, or to say, criminal case. Notorious rapist Jeffery Eiberstain and Warren S. Jeffs of Keep Sweet: Pray and Obey; I can already name two just in US. Sexual offense is the worst form of malice agianst women. This project is tend to analyze the victim and offender profiles of sexual offenses and dig deeper into the demographical factors that might correlate with seuxal offense, specifically in 2021.
 
 ## As the very beginning, it's important to see the trend of sexual offense cases in US in previous years, from 2013-2019.
-
-###### note: After 2019, rape is categorized as sexual offense under violent crime. They share the same definition.
-
 ## Observe a General Trend: Number of Rape Cases from 2013-2019 in US
+###### note: After 2019, rape is categorized as sexual offense under violent crime. They share the same definition.
