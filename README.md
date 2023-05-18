@@ -10,4 +10,4 @@
 ## Observe a General Trend: Number of Rape Cases from 2013-2019 in US
 ###### note: After 2019, rape is categorized as sexual offense under violent crime. They share the same definition.
 
-![13-19 trend]([https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/past%20rape%20data.png?raw=true](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_6_1.png?raw=true))
+![13-19 trend](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_6_1.png?raw=true)
