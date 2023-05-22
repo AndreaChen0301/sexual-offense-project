@@ -28,13 +28,13 @@
 ![sex bar](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_57_1.png?raw=true)
 ![sex pie](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_57_2.png?raw=ture)
 
-### It's evident that victims are overwhelmingly females, made up 87.4% of all victims. Now we know the sex distribution. What about age? Are the young ladies more likely to be the target? Or the immatured, vulnerable underaged girls? 
+#### It's evident that victims are overwhelmingly females, made up 87.4% of all victims. Now we know the sex distribution. What about age? Are the young ladies more likely to be the target? Or the immatured, vulnerable underaged girls? 
 
 ### Victim Age Distribution
 
 ![age density](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_60_0.png?raw=true)
 
-### 5 years for each age category. Left skewed curve shows that majority of the victims are in young ages, mostly between 11-15 who are vulnerable underaged teen and even children.
+#### 5 years for each age category. Left skewed curve shows that majority of the victims are in young ages, mostly between 11-15 who are vulnerable underaged teen and even children.
 
 ## Offender Profile
 #### After the victims proflie, who are the offenders? What's their sex distribution, age distribution? Will these two parameters have the same pattern for victims and offenders? Besides sex and age, relationship with the victim and the offender drug+alcohol use are also included. Do the offenders know the victims? Or they are total strangers. For alcohol is always used as an justification for wrong doing, are the offenders sober when they commit crime?
@@ -43,16 +43,29 @@
 
 ![offender sex distribution](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_65_1.png?raw=true)
 
-### The result shows a opposite trend. The female victims outnumber the male victims while male offenders outnumber the female victims.
+#### The result shows a opposite trend. The female victims outnumber the male victims while male offenders outnumber the female victims.
 
 ### Offender Age Distribution
 
 ![offenser age dis](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_68_1.png?raw=true)
 
-### Offender age distribution is also left skewed but smoother. Most of the offenders are teenagers and physically capable adults who are between 11-35.
+#### Offender age distribution is also left skewed but smoother. Most of the offenders are teenagers and physically capable adults who are between 11-35.
 
 ### Relationship With Victims
 
 ![relationships](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_71_1.png?raw=true)
 
-### "Family member and other" category consists victims related to all offenders and victims related to at least one offenders. They together made up 80.5% of the cases, indicating most of the offenses are done by acquaintance. 
+#### "Family member and other" category consists victims related to all offenders and victims related to at least one offenders. They together made up 80.5% of the cases, indicating most of the offenses are done by acquaintance. 
+
+### Offender Use of Drug or Alcohol
+
+![alcohol drug use](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_74_1.png?raw=true)
+
+#### Nearly 90% of the sexual offense is commited when offenders are sober, free from any use of alcohol or drugs.
+
+##### Notes:  All the data used in previous analysis are from FBI Crime Data Explorer
+
+
+# **State-level Femographical Features**
+
+### The purpose of the project is to find out whether the demographic features will affect sexual offense rate. What are those features? I have decided to include 8 features: police spending, primary and secondary school teacher average salary, poverty rate, GDP per capita, education spending per pupil, drug overdose mortality rate, binge drinking rate, and bachelor degree attainment rate.
