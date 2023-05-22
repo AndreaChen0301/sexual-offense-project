@@ -20,7 +20,7 @@
 ![heatmap for sexual offense](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/heatmap1.png?raw=true)
 ![heat map for police](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/heatmap2.png?raw=true)
 
-## Victims Profile
+## **Victims Profile**
 #### Getting closer to the victims of sexual offense, who are they? The age and sex distribution are included in order to find the out who is more likely be targeted.
 
 ### Victims Sex Distribution
