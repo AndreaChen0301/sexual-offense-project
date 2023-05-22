@@ -1,4 +1,4 @@
-# Sexual Offense Project
+# **Sexual Offense Project**
 
 ### Inequality is always a hot topic in anywhere of the world, espeically in the U.S.. However, every time when people talk about inequality of the minority, they talk about race, mostly black, while ignoring a large portion of population who has been mistreated for decades--females. They endure inequality and social stereotype since in young ages. Sexual directive prints on baby onesies, stereotypical career advice for females, unequal opportunities  in academics, unreasonable limitations for females in workplaces, etc.. They exist everywhere; I can say no girl could say that she has not been mistreated in her entire life. 
 ### Not everyone can name a person around them who are victim or offender of sexual offense, but it's easy to find a real-life example, or to say, criminal case. Notorious rapist Jeffery Eiberstain and Warren S. Jeffs of Keep Sweet: Pray and Obey; I can already name two just in US. Sexual offense is the worst form of malice agianst women. This project is tend to analyze the victim and offender profiles of sexual offenses and dig deeper into the demographical factors that might correlate with seuxal offense, specifically in 2021.
@@ -44,3 +44,15 @@
 ![offender sex distribution](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_65_1.png?raw=true)
 
 ### The result shows a opposite trend. The female victims outnumber the male victims while male offenders outnumber the female victims.
+
+### Offender Age Distribution
+
+![offenser age dis](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_68_1.png?raw=true)
+
+### Offender age distribution is also left skewed but smoother. Most of the offenders are teenagers and physically capable adults who are between 11-35.
+
+### Relationship With Victims
+
+![relationships](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_71_1.png?raw=true)
+
+### "Family member and other" category consists victims related to all offenders and victims related to at least one offenders. They together made up 80.5% of the cases, indicating most of the offenses are done by acquaintance. 
