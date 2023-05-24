@@ -69,6 +69,19 @@
 # **State-level Femographical Features**
 
 ### The purpose of the project is to find out whether the demographic features will affect sexual offense rate. What are those features? I have decided to include 8 features: police spending, primary and secondary school teacher average salary, poverty rate, GDP per capita, education spending per pupil, drug overdose mortality rate, binge drinking rate, and bachelor degree attainment rate. Due to the avaliability, the valid data are only included from 2016 to 2019. The NAs, rows for the features missing data from 2020 due to COVID-19, are dropped.
-### The below is a glance of the first few rows of the complete data of 8 features for 51 states (including Washington D.C.) from 2016-2019.
+#### The below is a glance of the first few rows of the complete data of 8 features for 51 states (including Washington D.C.) from 2016-2019.
 
 ![data glance](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/full%20data.png?raw=true)
+
+### To find out whether the demographic features will affect sexual offense rate, I fit the RandomForestRegressor model to the model data to chack the importance of each feature. The model data has everything expect for state and year variable.
+
+![model data](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/model%20data.png?raw=true)
+
+### Below is the table and plot of r^2 score for each of the 8 features (importance)
+
+![importance table](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/model%20importance.png?raw=true)
+![importance plot](https://github.com/AndreaChen0301/sexual-offense-project/blob/main/project/data/images/output_87_1.png?raw=true)
+
+### It is clear that police correction spend per capita has a correlation with sexual offense rate of the state. The education, poverty, and other devient behavior features that I also expected to see a correlation with sexual assult rate, however, are not important to the model prediction.
+
+#### Data From: UCR Crime database, Bureau of Justice Statistics and US Census Bureau, National Center for Education Statistics, kaggle https://www.kaggle.com/code/marshuu/poverty-rate-in-the-us-animation/input,  Center for Disease Control and Prevention, National Survey on Drug Use and Health
