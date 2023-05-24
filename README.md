@@ -85,3 +85,4 @@
 ### It is clear that police correction spend per capita has a correlation with sexual offense rate of the state. The education, poverty, and other devient behavior features that I also expected to see a correlation with sexual assult rate, however, are not important to the model prediction.
 
 #### Data From: UCR Crime database, Bureau of Justice Statistics and US Census Bureau, National Center for Education Statistics, kaggle https://www.kaggle.com/code/marshuu/poverty-rate-in-the-us-animation/input,  Center for Disease Control and Prevention, National Survey on Drug Use and Health
+
