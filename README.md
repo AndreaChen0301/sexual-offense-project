@@ -1,4 +1,4 @@
-# **Sexual Offense Project**
+# **Demographical Features and Sexual Offense in U.S.**
 
 Inequality is always a hot topic in anywhere of the world, espeically in the U.S.. However, every time when people talk about inequality of the minority, they talk about race, mostly black, while ignoring a large portion of population who has been mistreated for decades--females. They endure inequality and social stereotype since in young ages. Sexual directive prints on baby onesies, stereotypical career advice for females, unequal opportunities  in academics, unreasonable limitations for females in workplaces, etc.. They exist everywhere; I can say no girl could say that she has not been mistreated in her entire life. 
 
